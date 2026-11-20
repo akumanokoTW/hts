@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { X, CheckCircle2, Star, Sparkles, Image as ImageIcon, HelpCircle, ArrowRight, ShieldCheck, ChevronRight } from 'lucide-react';
+import { X, CheckCircle2, Sparkles, Image as ImageIcon, HelpCircle, ArrowRight, ShieldCheck, ChevronRight } from 'lucide-react';
 import TeamIcon from './TeamIcon';
 import AccordionItem from './AccordionItem';
 

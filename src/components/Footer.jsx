@@ -1,5 +1,5 @@
 import React from 'react';
-import { Compass, Mail, MessageCircle, Globe, ShieldCheck, Heart } from 'lucide-react';
+import { Compass, Mail, MessageCircle, Globe } from 'lucide-react';
 import { campMeta } from '../data/campData';
 
 export default function Footer({ onOpenAbout, onOpenApplication }) {

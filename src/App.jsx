@@ -7,8 +7,7 @@ import AboutModal from './components/AboutModal';
 import TeamDetailModal from './components/TeamDetailModal';
 import ApplicationModal from './components/ApplicationModal';
 import Footer from './components/Footer';
-import { campMeta } from './data/campData';
-import { Sparkles, Compass, ShieldCheck, ArrowRight, Radio } from 'lucide-react';
+import { Sparkles, ShieldCheck, ArrowRight, Radio } from 'lucide-react';
 
 export default function App() {
   const [isAboutOpen, setIsAboutOpen] = useState(false);

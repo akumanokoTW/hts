@@ -1,5 +1,5 @@
 import React from 'react';
-import { Sparkles, ArrowRight, ShieldCheck, ChevronDown, Radio, Globe, Satellite } from 'lucide-react';
+import { Sparkles, ArrowRight, ShieldCheck, ChevronDown, Satellite } from 'lucide-react';
 import { campMeta } from '../data/campData';
 
 export default function HeroSection({ onOpenAbout, onOpenApplication, onExploreTeams }) {

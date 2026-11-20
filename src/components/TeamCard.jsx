@@ -1,5 +1,5 @@
 import React from 'react';
-import { ArrowRight, ChevronRight, Sparkles } from 'lucide-react';
+import { ArrowRight, Sparkles } from 'lucide-react';
 import TeamIcon from './TeamIcon';
 
 export default function TeamCard({ team, index, onSelect }) {

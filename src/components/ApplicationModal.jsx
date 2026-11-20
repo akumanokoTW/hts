@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-import { X, Calendar, Clock, ExternalLink, Sparkles, CheckCircle, AlertCircle, Info, ShieldCheck, ArrowUpRight } from 'lucide-react';
-import { applicationProcess, campMeta } from '../data/campData';
+import { X, Calendar, Clock, ExternalLink, Sparkles, AlertCircle, Info } from 'lucide-react';
+import { applicationProcess } from '../data/campData';
 
 export default function ApplicationModal({ isOpen, onClose, selectedTeam }) {
   useEffect(() => {

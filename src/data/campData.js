@@ -276,7 +276,7 @@ export const applicationProcess = {
       title: "第二階段：書審結果通知",
       date: "2026.10.21 (日) 18:00 前",
       status: "以 Email 及簡訊發送",
-      highlight: false,
+      highlight: true,
       description: "團隊將仔細審閱所有報名履歷，書面通過者將收到面試時段與視訊連結。"
     },
     {
@@ -284,7 +284,7 @@ export const applicationProcess = {
       title: "第三階段：線上互動面試",
       date: "2026.10.24 (六) - 10.31 (六)",
       status: "線上 Google Meet 面試",
-      highlight: false,
+      highlight: true,
       description: "每人約 15-20 分鐘輕鬆對話，旨在了解你的團隊合作習慣、溝通風格與組別適配度，由召部進行多對一或一對一面試，不會吃人，不用害怕！！！！"
     },
     {
@@ -292,7 +292,7 @@ export const applicationProcess = {
       title: "第四階段：正取名單與組別公告",
       date: "2026.11.07 (五) 20:00",
       status: "官方 Instagram 與電子郵件公布",
-      highlight: false,
+      highlight: true,
       description: "於官網與社群公布正取志工艦隊名單，並發送正式錄取通知函與各組 Discord 交流社群連結。"
     },
     {
@@ -300,7 +300,7 @@ export const applicationProcess = {
       title: "第五階段：籌備與情感建立",
       date: "2026.11.08 – 2027.07",
       status: "視組別及處理事項出席",
-      highlight: false,
+      highlight: true,
       description: "包含每月至少一次全體大會以及各小組內部線上會議，共同解決組內任務。於寒假期間會辦理一次實體聚會，幫助工作人員彼此熟悉，不強制出席。"
     },
     {

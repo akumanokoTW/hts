@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react';
-import { X, ShieldCheck, Compass, Users, Sparkles, Check, ChevronRight, Globe2, Telescope, Heart } from 'lucide-react';
+import { X, Compass } from 'lucide-react';
 import { aboutUs, campMeta, teamsData } from '../data/campData';
 import TeamIcon from './TeamIcon';
 
